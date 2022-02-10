@@ -1,0 +1,52 @@
+/*Estilos da Pag index.html*/
+
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+}
+.menu li{
+
+    display: inline;
+    padding: 10px;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+
+.menu li a:hover{
+    color: silver;
+
+}
+
+.p-30 {
+    padding: 30px;
+}
+
+.br-50 {
+    border-radius: 50%;
+}
+
+.wh{
+    width: 300px;
+    height: 300px;
+}
+
+.tm-social{
+    width: 30px;
+    height: 30px;
+    
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+
+/*Estilos da Pag contato.html*/
+
